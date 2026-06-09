@@ -64,8 +64,10 @@ python main.py
 
 ## Links
 
-- Code in Place Project:https://codeinplace.stanford.edu/cip5/share/dHVriPmnkx7Gqcq9JRgV 
-- GitHub Repo:https://github.com/Stacked0xdev/i-dunno-eat-this-?tab=MIT-1-ov-file
+- Code in Place Project:
+https://codeinplace.stanford.edu/cip5/share/dHVriPmnkx7Gqcq9JRgV 
+- GitHub Repo:
+https://github.com/Stacked0xdev/i-dunno-eat-this-?tab=MIT-1-ov-file
 
 ## License
 
