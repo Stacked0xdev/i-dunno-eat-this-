@@ -4,15 +4,14 @@ A mood-based food suggestion generator built in Python.
 
 ---
 
-## 🚀 About the Project
+## About the Project
 
 "I Dunno, Eat This!" is a simple yet creative Python project that solves a universal problem — *what should I eat today?*
-
 The app takes your mood as input and generates fun, random, and globally inspired food suggestions. It blends logic, randomness, and personality to make decision-making faster and more enjoyable.
 
 ---
 
-## 🎯 Features
+## Features
 
 - Mood-based food recommendations
 - Randomized suggestion engine
@@ -22,16 +21,16 @@ The app takes your mood as input and generates fun, random, and globally inspire
 
 ---
 
-## 🧠 Supported Moods
+## Supported Moods
 
-- Happy 😊
-- Sad 😢
-- Lazy 💤
-- Adventurous 🌍
+- Happy 
+- Sad 
+- Lazy 
+- Adventurous 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python 3
 - Random module
@@ -45,7 +44,7 @@ The app takes your mood as input and generates fun, random, and globally inspire
 
 ---
 
-## 💡 What I Learned
+## What I Learned
 
 Building this project helped me understand:
 - Basic Python logic and control flow
@@ -58,16 +57,16 @@ Most importantly, I learned that even a small codebase can create a meaningful a
 
 ---
 
-## 📦 How to Run
+## How to Run
 
-```bash
+` ````bash `
 python main.py
 
-## 🔗 Links
+## Links
 
 - Code in Place Project:https://codeinplace.stanford.edu/cip5/share/dHVriPmnkx7Gqcq9JRgV 
 - GitHub Repo:https://github.com/Stacked0xdev/i-dunno-eat-this-?tab=MIT-1-ov-file
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
