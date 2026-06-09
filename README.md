@@ -41,7 +41,6 @@ The app takes your mood as input and generates fun, random, and globally inspire
 - Conditional logic
 - User input handling
 
-
 ---
 
 ## What I Learned
@@ -59,15 +58,17 @@ Most importantly, I learned that even a small codebase can create a meaningful a
 
 ## How to Run
 
-` ```bash `
+```bash
 python main.py
+```
 
 ## Links
 
 - Code in Place Project:
-https://codeinplace.stanford.edu/cip5/share/dHVriPmnkx7Gqcq9JRgV 
+  https://codeinplace.stanford.edu/cip5/share/dHVriPmnkx7Gqcq9JRgV
+
 - GitHub Repo:
-https://github.com/Stacked0xdev/i-dunno-eat-this
+  https://github.com/Stacked0xdev/i-dunno-eat-this
 
 ## License
 
