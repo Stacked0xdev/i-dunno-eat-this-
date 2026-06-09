@@ -59,7 +59,7 @@ Most importantly, I learned that even a small codebase can create a meaningful a
 
 ## How to Run
 
-` ````bash `
+` ```bash `
 python main.py
 
 ## Links
@@ -67,7 +67,7 @@ python main.py
 - Code in Place Project:
 https://codeinplace.stanford.edu/cip5/share/dHVriPmnkx7Gqcq9JRgV 
 - GitHub Repo:
-https://github.com/Stacked0xdev/i-dunno-eat-this-?tab=MIT-1-ov-file
+https://github.com/Stacked0xdev/i-dunno-eat-this
 
 ## License
 
